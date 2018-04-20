@@ -11,3 +11,5 @@ conda install -c conda-forge tyssue
 ```
 
 2. Leasurely explore the notebooks
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/DamCB/tyssue-demo/master)
