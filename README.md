@@ -5,7 +5,7 @@ Small demo notebooks for tyssue
 
 ## Usage
 
-1. Install tyssue from conda-forge in a python 3.6:
+1. Install tyssue from conda-forge in a python >= 3.6 environement:
 ```bash
 conda install -c conda-forge tyssue
 ```
