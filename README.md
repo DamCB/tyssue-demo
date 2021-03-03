@@ -22,9 +22,9 @@ conda install -c conda-forge tyssue
 
 00-Basic_Usage : Introduction to generation of tissue in 2D, data structure and input/output + specification
  
-01-Geometry : 2D, 2D1/2 + closed , mono, closed mono, bulk. Manque des illustrations; image des vues statiques pour la 3D
+01-Geometry : Presentation of geometries include in tyssue.
 
-02-Visualisation : Explanation of some plot function
+02-Visualisation : Explanation of some plot functions.
 
 03-Dynamics : Explanation of models and associated specs.
 
@@ -32,5 +32,12 @@ conda install -c conda-forge tyssue
 
 05-EventManager: Presentation of the `eventManager` object which manage events during simulation.
 
-05-Rearrangment_And_CellDivision :  cell division, les T1
+
+A-ReversibleNetworkReconnection : Reproduce the reversible network reconnection model from Okuda et al. 
+
+B-Cell_Division : Example of cell division on 2D and 3D epithelium. 
+
+C-Apoptosis : Example of apoptotic cell on apical 3D epithelium.
+
+D-2DMigration : Reproduce the model of Mapeng Bi et al. of cell migration in 2D epithelium.  
 
