@@ -30,14 +30,18 @@ conda install -c conda-forge tyssue
 
 04-Solvers: Presentation of quasistatic and dynamic solver. Presentation of the object `history`. 
 
-05-EventManager: Presentation of the `eventManager` object which manage events during simulation.
+05-Rearangments : Explanation of how rearangments works.
+
+06-Cell_Division : Explanation of of how cell division works.
+
+07-EventManager : Presentation of the `eventManager` object which manage events during simulation.
 
 
 A-ReversibleNetworkReconnection : Reproduce the reversible network reconnection model from Okuda et al. 
 
-B-Cell_Division : Example of cell division on 2D and 3D epithelium. 
+B-Apoptosis : Example of apoptotic cell on apical 3D epithelium.
 
-C-Apoptosis : Example of apoptotic cell on apical 3D epithelium.
+C-2DMigration : Reproduce the model of Mapeng Bi et al. of cell migration in 2D epithelium.  
 
-D-2DMigration : Reproduce the model of Mapeng Bi et al. of cell migration in 2D epithelium.  
+D-FarhadifarModel : Exemple of the Farhadifar model from his paper in 2007. 
 
